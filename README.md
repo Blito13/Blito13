@@ -8,7 +8,7 @@
   
   [Linkedin](https://www.linkedin.com/in/pablo-lesta/)
   
-lestap523@hotmail.com
+  lestap523@gmail.com
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
