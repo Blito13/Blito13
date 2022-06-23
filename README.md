@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blito13
 - 👀 Me impulsa la idea de poder vivir de lo que me gusta adaptando mi creatividad a  la resolución de problemas 
 - 🌱 Experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector. 
-- 💞️ Entusiamo por  el trabajo en equipo y los nuevos desafios.
+- 💞️ Entusiasmo por  el trabajo en equipo y los nuevos desafios.
 - 📫 How to reach me ...
 
   [Whatsapp](https://wa.me/3512137573)</br>
