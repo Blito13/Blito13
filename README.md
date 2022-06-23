@@ -7,7 +7,8 @@
   [Whatsapp](https://wa.me/3512137573)</br>
   
   [Linkedin](https://www.linkedin.com/in/pablo-lesta/)
-  [gmail](lestap523@hotmail.com)
+  
+lestap523@hotmail.com
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
