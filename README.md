@@ -19,4 +19,5 @@
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) 
-![sequelize](https://img.shields.io/badge/-sequelize-000000?style=flat&logo=sequelize) 
+![sequelize](https://img.shields.io/badge/-sequelize-000000?style=flat&logo=sequelize)
+![express](https://img.shields.io/badge/-express-000000?style=flat&logo=express)
