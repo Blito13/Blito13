@@ -6,7 +6,7 @@
 
   [Whatsapp](https://wa.me/3512137573)</br>
   
-  [Linkedin](https://www.linkedin.com/in/pablo-lesta/)
+  [Linkedin](https://www.linkedin.com/in/pablolesta/)
   
   lestap523@gmail.com
 
