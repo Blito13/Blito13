@@ -22,4 +22,5 @@
 ![sequelize](https://img.shields.io/badge/-sequelize-000000?style=flat&logo=sequelize)
 ![express](https://img.shields.io/badge/-express-000000?style=flat&logo=express)
 ![vite](https://img.shields.io/badge/-vite-000000?style=flat&logo=vite)
+![framermotion](https://img.shields.io/badge/-framer-000000?style=flat&logo=framer)
 
